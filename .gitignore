@@ -1,0 +1,28 @@
+# Környezeti változók és titkos adatok
+.env
+*.env
+
+# Python virtuális környezet
+venv/
+env/
+ENV/
+
+# Python cache fájlok
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Naplófájlok
+logs/
+*.log
+
+# Ideiglenes mappák
+tmp/
+temp/
+/tmp
+
+# Rendszerspecifikus fájlok
+.DS_Store
+Thumbs.db
